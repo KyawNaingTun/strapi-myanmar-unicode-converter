@@ -1,0 +1,25 @@
+{
+  "name": "strapi-myanmar-unicode-converter",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "strapi-myanmar-unicode-converter",
+    "description": "Description of Myanmar Unicode Converter plugin",
+    "kind": "plugin",
+    "displayName": "Myanmar Unicode Converter"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Kyaw Naing Tun"
+  },
+  "maintainers": [
+    {
+      "name": "Kyaw Naing Tun"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
