@@ -1,20 +1,24 @@
 {
   "name": "strapi-myanmar-unicode-converter",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "version": "1.0.0",
+  "description": "To convert automatically from Zawgyi to Unicode.",
   "strapi": {
     "name": "strapi-myanmar-unicode-converter",
-    "description": "Description of Myanmar Unicode Converter plugin",
+    "description": "To convert automatically from Zawgyi to Unicode.",
     "kind": "plugin",
-    "displayName": "Myanmar Unicode Converter"
+    "displayName": "Strapi Myanmar Unicode Converter"
   },
-  "dependencies": {},
+  "dependencies": {
+    "mm-tools-client-js": "^1.0.0"
+  },
   "author": {
-    "name": "Kyaw Naing Tun"
+    "name": "Kyaw Naing Tun",
+    "url": "https://github.com/KyawNaingTun"
   },
   "maintainers": [
     {
-      "name": "Kyaw Naing Tun"
+      "name": "Kyaw Naing Tun",
+      "url": "https://github.com/KyawNaingTun"
     }
   ],
   "engines": {

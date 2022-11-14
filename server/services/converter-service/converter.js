@@ -1,4 +1,4 @@
-const google_myanmar_tools = require("myanmar-tools"); 
+const google_myanmar_tools = require("mm-tools-client-js"); 
 module.exports = {
 	convertToUnicode(fieldValue) {
 		let value = fieldValue;
