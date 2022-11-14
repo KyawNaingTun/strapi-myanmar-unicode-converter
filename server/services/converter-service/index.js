@@ -1,7 +1,6 @@
 'use strict';
 
 const _ = require('lodash');
-const google_myanmar_tools = require("myanmar-tools"); 
 const { convertToUnicode } = require('./converter');
 // const { getPluginService } = require('../../utils/getPluginService');
 module.exports = ({ strapi }) => ({
