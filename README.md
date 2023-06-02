@@ -31,11 +31,21 @@ npm run build
 
 ## How to use?
 
-1. First, enable in collection type 
+1). First, enable in collection type 
 
 <p align="center">
-  <a href="https://strapi.io">
-    <img src="https://raw.githubusercontent.com/strapi/strapi/0bcebf77b37182fe021cb59cc19be8f5db4a18ac/public/assets/administration_panel.png" alt="Administration panel" />
+  <a href="https://github.com/KyawNaingTun/strapi-myanmar-unicode-converter">
+    <img src="https://raw.githubusercontent.com/KyawNaingTun/strapi-myanmar-unicode-converter/master/screenshots/collection-enable.png" alt="Enable in collection type" />
+  </a>
+</p>
+
+<br>
+
+2). Then, enable in attribute type. Note: supported only ```Text and Rich Text```
+
+<p align="center">
+  <a href="https://github.com/KyawNaingTun/strapi-myanmar-unicode-converter">
+    <img src="https://raw.githubusercontent.com/KyawNaingTun/strapi-myanmar-unicode-converter/master/screenshots/attribute-enable.png" alt="Enable in attribute type" />
   </a>
 </p>
 
