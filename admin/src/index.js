@@ -84,8 +84,8 @@ export default {
               {
                 name: 'pluginOptions.unicode_converter.enabled',
                 description: {
-                  id: 'The field can convert to unicode',
-                  defaultMessage: 'The field can convert to unicode',
+                  id: 'This field will convert to unicode automatically',
+                  defaultMessage: 'This field will convert to unicode automatically',
                 },
                 type: 'checkbox',
                 intlLabel: {
