@@ -1,4 +1,11 @@
-# Strapi plugin strapi-myanmar-unicode-converter
+<p align="center">
+  <a href="https://github.com/KyawNaingTun/strapi-myanmar-unicode-converter">
+    <img src="https://raw.githubusercontent.com/KyawNaingTun/strapi-myanmar-unicode-converter/master/screenshots/logo.png" width="100px" alt="Strapi Myanmar Unicode Converter logo" />
+  </a>
+</p>
+
+<h3 align="center">Strapi Myanmar Unicode Converter</h3>
+<br><br>
 
 ## Installation
 To install this plugin, you need to add an NPM dependency to your Strapi application:
