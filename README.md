@@ -17,13 +17,26 @@ yarn add @kyawnaingtun/strapi-myanmar-unicode-converter
 # Or using NPM
 npm install@kyawnaingtun/strapi-myanmar-unicode-converter
 ```
+## Configuration
+| property | type | default | description |
+| - | - | - | - |
+| score | number `(0<1)` | `0.8` | Zawgyi font detection score point. |
 
-enable the plugin at ```src/config/plugin.js```
 
-```javascript
-"strapi-myanmar-unicode-converter": {
-    enabled: true,
-}
+#### Example
+
+```js
+// ./config/plugins.js`
+'use strict';
+
+module.exports = {
+  'strapi-myanmar-unicode-converter': {
+		enabled: true,
+		config: {
+			score: 0.9 //your score point
+		}
+	},
+};
 ```
 
 Then, you'll need to build your admin panel:
