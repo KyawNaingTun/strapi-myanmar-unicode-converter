@@ -1,6 +1,6 @@
 {
   "name": "@kyawnaingtun/strapi-myanmar-unicode-converter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "To convert automatically from Zawgyi to Unicode.",
   "strapi": {
     "name": "strapi-myanmar-unicode-converter",
